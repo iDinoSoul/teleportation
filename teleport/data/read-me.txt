@@ -1,0 +1,12 @@
+Hey! Thanks for checking out this datapack!
+
+Just a few words before you're all good to go: make sure that you have (or
+anyone else who should have administrative rights has) the "Admin" tag before
+you use the datapack. Both the successful installation message and the
+successful will only display to those that have this tag, though the rest of
+the datapack will function just fine for those without this tag.
+
+Use the below commands to give yourself/anyone this tag:
+
+/tag @s add Admin
+/tag <Player_Name> add Admin

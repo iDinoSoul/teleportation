@@ -1,0 +1,2 @@
+execute if entity @s[tag=!toggle_teleport,scores={toggle_teleport=1..}] run function teleport:launch-required/toggle/toggle-teleport-on
+execute if entity @s[tag=toggle_teleport,scores={toggle_teleport=1..}] run function teleport:launch-required/toggle/toggle-teleport-off
